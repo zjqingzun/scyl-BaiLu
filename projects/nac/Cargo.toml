@@ -1,0 +1,12 @@
+[package]
+name = "nac"
+version = "1.85.0"
+edition = "2024"
+
+
+[workspace]
+members = [
+    "user/cat",
+    "user/grrs"
+]
+

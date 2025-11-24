@@ -1,0 +1,8 @@
+[package]
+name = "grrs"
+version = "1.85.0"
+edition = "2024"
+
+
+[dependencies]
+clap = { version = "4.5", features = ["derive"] }
